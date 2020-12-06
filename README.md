@@ -15,3 +15,5 @@ The range is 100Hz to 1000 Hz for this Highpass filter to function properly.
 In the above data, decimal points have been rounded off.
 
 For the problem, above 5 frequencies are used for calculation. Pertaining screenshots are place in the 'Screenshots' folder.
+
+Derviation is written in the 'problem 3.pdf' file
